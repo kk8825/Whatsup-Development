@@ -1,2 +1,2 @@
 # Whatsup-Development
-This is the chat application
+This is the online chat application
